@@ -1,4 +1,8 @@
-### Hi there 👋
+![Profile Image](https://github.com/exampleuser/exampleuser/raw/main/profile-image.jpg)
+
+### Hello, I'm Anas!  
+
+g
 
 <!--
 **aburayaanas/aburayaanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
